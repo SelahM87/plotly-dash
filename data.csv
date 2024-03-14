@@ -27,7 +27,7 @@ Algenist,ELEVATE Advanced Lift Contouring Cream,3317,4.3,37.0,False,False,Moistu
 Algenist,ELEVATE Firming & Lifting Contouring Eye Cream,1957,3.3,31.0,False,False,Eye Care,Eye Creams & Treatments,72.0,15.0,luxury,False,False,False,False,False,False,False,False,False,False
 Algenist,ALIVE Prebiotic Balancing Moisturizer SPF 15,1897,3.2,30.0,False,True,Moisturizers,Moisturizers,40.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 Algenist,ELEVATE Firming & Lifting Neck Cream,5118,3.9,18.0,False,True,Moisturizers,Decollete & Neck Creams,84.0,60.0,luxury,False,False,False,False,False,False,False,False,False,True
-Algenist,Algae Peptide Regenerative Moisturizer,442,0.0,,False,True,Moisturizers,Moisturizers,98.0,60.0,luxury,False,False,False,False,False,True,False,False,False,True
+Algenist,Algae Peptide Regenerative Moisturizer,442,0.0,0.0,False,True,Moisturizers,Moisturizers,98.0,60.0,luxury,False,False,False,False,False,True,False,False,False,True
 Alpha-H,Liquid Gold Exfoliating Treatment with Glycolic acid,18300,4.5,915.0,True,False,Treatments,Face Serums,56.0,100.0,luxury,False,True,False,True,False,False,False,False,False,True
 Alpha-H,Vitamin A Serum with 0.5% Retinol,7074,4.4,95.0,True,False,Treatments,Face Serums,65.0,25.0,luxury,True,True,False,False,False,False,False,False,False,True
 Alpha-H,Vitamin B Serum with 5% Niacinamide and Peptides,6331,4.3,84.0,True,False,Treatments,Face Serums,65.0,25.0,luxury,False,True,False,False,True,False,False,False,False,False
@@ -82,7 +82,7 @@ BeautyBio,GLOfacial Clarifying Salicylic & Plumping Hyaluronic Acid Concentrate,
 BeautyBio,Contouring + De-Puffing Rose Quartz GloPRO Attachment Head,3334,4.1,7.0,True,False,High Tech Tools,Anti-Aging,49.0,,luxury,False,False,False,False,False,False,False,False,False,False
 BeautyBio,GLOfacial Antimicrobial Treatment Tips + Cleaning Brush Accessories,1011,5.0,7.0,True,False,High Tech Tools,High Tech Tools,30.0,,fair,False,False,True,False,True,False,False,False,False,False
 BeautyBio,The Quench Eye Reviving Quadralipid Eye Balm,1607,4.0,5.0,False,False,Eye Care,Eye Creams & Treatments,99.0,14.0,luxury,False,False,False,False,False,False,False,False,False,False
-BeautyBio,Cryo Skin Icing Roller + Bright Eyes Gels Set,876,0.0,,True,True,High Tech Tools,Anti-Aging,100.0,,luxury,True,False,False,False,True,False,False,False,True,False
+BeautyBio,Cryo Skin Icing Roller + Bright Eyes Gels Set,876,0.0,0.0,True,True,High Tech Tools,Anti-Aging,100.0,,luxury,True,False,False,False,True,False,False,False,True,False
 belif,The True Cream Aqua Bomb,265050,4.5,7292.0,False,False,Moisturizers,Moisturizers,38.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 belif,The True Cream Moisturizing Bomb,151868,4.6,4523.0,False,False,Moisturizers,Moisturizers,38.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 belif,Moisturizing Eye Bomb with Squalane,101158,4.5,2965.0,False,False,Eye Care,Eye Creams & Treatments,48.0,,luxury,False,False,False,False,False,False,False,False,False,False
@@ -215,8 +215,8 @@ Clarins,Self Tanning Face & Body Milky Lotion,732,3.7,3.0,True,False,Self Tanner
 Clarins,Super Restorative Anti-Aging Day Moisturizer,566,4.7,3.0,True,False,Moisturizers,Moisturizers,132.0,50.0,luxury,True,True,False,False,False,True,False,False,False,True
 Clarins,Skincare Essentials Kit,2986,3.0,2.0,False,True,Treatments,Face Serums,100.0,,luxury,True,True,False,False,False,False,False,False,True,True
 Clarins,Super Restorative Anti-Aging Night Moisturizer,595,5.0,2.0,True,False,Moisturizers,Moisturizers,140.0,50.0,luxury,True,True,False,False,False,True,False,False,False,True
-Clarins,Double Serum Light Texture Firming & Smoothing Anti-Aging Concentrate,294,0.0,,False,False,Treatments,Face Serums,132.0,50.0,luxury,True,True,False,False,False,True,False,False,False,True
-Clarins,Hydra-Essentiel Silky Moisturizer with Double Dose Hyaluronic Acid,282,0.0,,True,False,Moisturizers,Moisturizers,49.0,50.0,luxury,False,False,False,False,False,True,False,False,False,False
+Clarins,Double Serum Light Texture Firming & Smoothing Anti-Aging Concentrate,294,0.0,0.0,False,False,Treatments,Face Serums,132.0,50.0,luxury,True,True,False,False,False,True,False,False,False,True
+Clarins,Hydra-Essentiel Silky Moisturizer with Double Dose Hyaluronic Acid,282,0.0,0.0,True,False,Moisturizers,Moisturizers,49.0,50.0,luxury,False,False,False,False,False,True,False,False,False,False
 CLINIQUE,Take The Day Off Cleansing Balm Makeup Remover,185324,4.5,4375.0,False,False,Cleansers,Face Wash & Cleansers,38.0,125.0,luxury,False,False,False,False,False,False,False,False,False,False
 CLINIQUE,Dramatically Different Moisturizing Gel,95864,4.4,3977.0,False,False,Moisturizers,Moisturizers,32.5,125.0,fair,False,False,False,False,False,False,False,False,False,False
 CLINIQUE,All About Clean Liquid Facial Soap,57395,4.4,2206.0,False,False,Cleansers,Face Wash & Cleansers,23.5,200.0,fair,False,False,False,False,False,False,False,False,False,False
@@ -297,7 +297,7 @@ CLINIQUE,Clarifying Lotion 3,577,4.2,6.0,False,False,Cleansers,Toners,36.0,487.0
 CLINIQUE,Mini Acne Solutions Cleansing Foam,1874,4.0,5.0,True,False,Cleansers,Face Wash & Cleansers,11.0,50.0,low-cost,False,False,True,False,False,False,False,False,False,False
 CLINIQUE,Clarifying Do-Over Peel,1064,3.0,5.0,False,False,Treatments,Facial Peels,35.0,30.0,fair,False,True,False,False,True,False,False,False,False,False
 CLINIQUE,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Combination Oily to Oily Skin,690,3.7,3.0,False,False,Moisturizers,Moisturizers,53.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
-CLINIQUE,Even Better Brightening Moisturizer SPF 20,313,0.0,,False,False,Moisturizers,Moisturizers,59.0,50.0,luxury,False,True,False,True,False,False,False,False,False,False
+CLINIQUE,Even Better Brightening Moisturizer SPF 20,313,0.0,0.0,False,False,Moisturizers,Moisturizers,59.0,50.0,luxury,False,True,False,True,False,False,False,False,False,False
 Community Sixty-Six,Makeup Melting Balm Cleanser,1308,3.4,248.0,True,True,Cleansers,Face Wash & Cleansers,16.0,150.0,fair,False,True,False,False,False,True,False,False,False,False
 Community Sixty-Six,Retinol Resurfacing Night Moisturizer,1442,4.1,243.0,True,True,Moisturizers,Moisturizers,35.0,50.0,fair,False,True,False,False,False,False,False,False,False,True
 Community Sixty-Six,Hydrating Oil-Free Gel Moisturizer,1039,4.1,241.0,True,True,Moisturizers,Moisturizers,25.0,50.0,fair,False,False,False,False,False,False,False,False,False,False
@@ -335,7 +335,7 @@ DAMDAM,Paradisi Hydrating Essence Mist,1300,4.5,40.0,True,True,Moisturizers,Mist
 Danessa Myricks Beauty,Beauty Oil with Gold Leaf,10153,4.6,67.0,False,False,Moisturizers,Face Oils,30.0,30.0,fair,False,False,False,False,False,False,False,False,False,False
 DERMAFLASH,DERMAPORE Ultrasonic Pore Extractor & Serum Infuser,51300,3.6,281.0,False,False,High Tech Tools,Anti-Aging,99.0,,luxury,False,False,True,False,True,True,False,False,False,False
 DERMAFLASH,LUXE+ Advanced Sonic Dermaplaning + Peach Fuzz Removal,37545,4.0,189.0,False,False,High Tech Tools,Anti-Aging,199.0,,luxury,False,False,False,False,False,False,False,False,False,False
-DERMAFLASH,Precision MINI Edges 8-Pack Refill,1352,0.0,,True,False,High Tech Tools,Hair Removal,29.0,,fair,False,False,False,False,False,False,False,False,False,False
+DERMAFLASH,Precision MINI Edges 8-Pack Refill,1352,0.0,0.0,True,False,High Tech Tools,Hair Removal,29.0,,fair,False,False,False,False,False,False,False,False,False,False
 Dermalogica,Daily Microfoliant Exfoliator,95311,4.7,4598.0,False,False,Cleansers,Exfoliators,65.0,74.0,luxury,False,True,False,False,False,False,False,False,False,False
 Dermalogica,Precleanse Cleansing Oil,49959,4.5,1229.0,False,False,Cleansers,Face Wash & Cleansers,49.0,150.0,luxury,False,False,True,False,True,False,False,False,False,False
 Dermalogica,Biolumin-C Vitamin C Eye Serum,26613,4.5,945.0,False,False,Eye Care,Eye Creams & Treatments,74.0,15.0,luxury,True,False,False,False,False,False,False,False,True,True
@@ -439,7 +439,7 @@ Dr. Barbara Sturm,Brightening Face Lotion,1490,4.4,7.0,False,False,Moisturizers,
 Dr. Barbara Sturm,Super Anti-Aging Eye Cream,1735,4.3,6.0,False,False,Eye Care,Eye Creams & Treatments,210.0,,luxury,False,False,False,False,False,False,False,False,True,True
 Dr. Barbara Sturm,Brightening Face Cream,2000,5.0,5.0,False,False,Moisturizers,Moisturizers,240.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 Dr. Barbara Sturm,Darker Skin Tones Face Cream Rich,873,4.7,3.0,False,False,Moisturizers,Moisturizers,240.0,50.0,luxury,False,False,False,False,False,False,False,False,True,False
-Dr. Barbara Sturm,Super Anti-Aging Night Cream,218,0.0,,True,False,Moisturizers,Moisturizers,395.0,30.0,luxury,True,False,False,False,False,False,False,False,False,True
+Dr. Barbara Sturm,Super Anti-Aging Night Cream,218,0.0,0.0,True,False,Moisturizers,Moisturizers,395.0,30.0,luxury,True,False,False,False,False,False,False,False,False,True
 Dr. Brandt Skincare,Hydro Biotic Recovery Sleeping Mask,21773,4.6,1187.0,False,False,Masks,Face Masks,54.0,,luxury,False,False,False,False,False,True,False,False,False,False
 Dr. Brandt Skincare,Needles No More Wrinkle Smoothing Cream,15453,3.5,506.0,False,False,Treatments,Face Serums,89.0,,luxury,False,False,False,False,False,False,False,False,False,True
 Dr. Brandt Skincare,PoreDermabrasion Pore Perfecting Exfoliator,20771,4.2,316.0,False,False,Cleansers,Exfoliators,59.0,,luxury,False,False,False,False,True,False,False,False,False,False
@@ -536,7 +536,7 @@ Dr. Lara Devgan Scientific Beauty,Vitamin C+B+E Ferulic Serum,9243,4.8,306.0,Tru
 Dr. Lara Devgan Scientific Beauty,Peptide Eye Cream,5462,4.8,268.0,True,True,Eye Care,Eye Creams & Treatments,215.0,15.0,luxury,False,True,False,False,False,False,False,False,True,True
 Dr. Lara Devgan Scientific Beauty,Microdermabrasion Scrub,1136,4.2,10.0,False,True,Cleansers,Exfoliators,65.0,57.0,luxury,False,True,False,False,False,False,False,False,True,True
 Dr. Lara Devgan Scientific Beauty,Retinol + Bakuchiol Serum 2.5x,581,3.0,1.0,True,False,Treatments,Face Serums,300.0,30.0,luxury,False,True,False,True,True,False,False,False,False,True
-Dr. Lara Devgan Scientific Beauty,Advanced Revitalizing Cleanser,217,0.0,,True,False,Cleansers,Face Wash & Cleansers,65.0,202.0,luxury,False,False,False,False,True,False,False,False,False,False
+Dr. Lara Devgan Scientific Beauty,Advanced Revitalizing Cleanser,217,0.0,0.0,True,False,Cleansers,Face Wash & Cleansers,65.0,202.0,luxury,False,False,False,False,True,False,False,False,False,False
 Dr. Zenovia Skincare,Peptide + Ceramide Repairing Moisturizer,5504,4.7,519.0,True,True,Moisturizers,Moisturizers,79.0,50.0,luxury,True,False,False,False,False,False,False,False,True,True
 Dr. Zenovia Skincare,10% Benzoyl Peroxide Acne Cleanser,8366,4.5,434.0,True,True,Cleansers,Face Wash & Cleansers,30.0,120.0,fair,False,False,True,False,False,False,False,False,False,False
 Dr. Zenovia Skincare,Aloe Vera Blemish Soothing Moisturizer,5968,4.6,377.0,True,True,Moisturizers,Moisturizers,38.0,45.0,luxury,False,True,True,False,False,False,False,False,False,False
@@ -627,9 +627,9 @@ FaceGym,Youthful Active Roller with Niacinamide,1119,4.6,38.0,True,False,High Te
 FaceGym,Hyaluronic Acid Roller Dissolving Microneedling Tool,4697,4.7,37.0,True,True,High Tech Tools,Anti-Aging,95.0,4.0,luxury,False,True,False,False,False,True,False,False,False,False
 FaceGym,Hydrating Active Roller with Hyaluronic Acid,407,4.3,30.0,True,False,High Tech Tools,Anti-Aging,70.0,2.0,luxury,False,False,False,False,False,True,False,False,False,False
 FaceGym,Supreme Restructure Collagen-Boosting Cermide Cream,1609,4.4,25.0,True,True,Moisturizers,Moisturizers,120.0,50.0,luxury,True,False,False,False,False,False,False,False,False,True
-FaceGym,Faceshot Vitamin Ampoules Refill,1068,0.0,,True,False,Treatments,Face Serums,90.0,,luxury,False,True,False,True,False,False,False,False,False,False
-FaceGym,Acne Light Shot,627,0.0,,True,False,Treatments,Blemish & Acne Treatments,90.0,1.0,luxury,False,False,True,False,False,False,False,False,False,False
-FaceGym,Acne Light Shot Strips,7,0.0,,True,False,Treatments,Blemish & Acne Treatments,17.0,,fair,False,False,True,False,False,False,False,False,False,False
+FaceGym,Faceshot Vitamin Ampoules Refill,1068,0.0,0.0,True,False,Treatments,Face Serums,90.0,,luxury,False,True,False,True,False,False,False,False,False,False
+FaceGym,Acne Light Shot,627,0.0,0.0,True,False,Treatments,Blemish & Acne Treatments,90.0,1.0,luxury,False,False,True,False,False,False,False,False,False,False
+FaceGym,Acne Light Shot Strips,7,0.0,0.0,True,False,Treatments,Blemish & Acne Treatments,17.0,,fair,False,False,True,False,False,False,False,False,False,False
 Farmacy,Green Clean Makeup Removing Cleansing Balm,403801,4.5,6158.0,False,True,Cleansers,Makeup Removers,36.0,100.0,luxury,False,True,False,False,False,False,False,False,False,False
 Farmacy,Green Clean Makeup Meltaway Cleansing Balm Limited Edition Jumbo,0,4.5,6158.0,False,True,Cleansers,Face Wash & Cleansers,60.0,200.0,luxury,False,True,False,False,False,False,False,False,False,False
 Farmacy,Honeymoon Glow AHA Resurfacing Night Serum,177152,4.3,1931.0,False,True,Moisturizers,Night Creams,60.0,30.0,luxury,False,True,False,False,False,False,False,False,True,False
@@ -651,7 +651,7 @@ Farmacy,Honey Grail Ultra-Hydrating Face Oil,47186,4.2,310.0,False,False,Moistur
 Farmacy,Green Defense Daily Mineral Sunscreen SPF 30,31465,4.0,300.0,False,False,Sunscreen,Face Sunscreen,36.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 Farmacy,Honey Halo Moisturizer Jumbo,28597,4.7,99.0,True,False,Moisturizers,Moisturizers,74.0,100.0,luxury,False,False,False,False,False,True,False,False,False,True
 Farmacy,Honey Potion Plus Ceramide Hydration Mask,32523,4.0,70.0,False,True,Masks,Face Masks,60.0,117.0,luxury,False,True,False,False,False,True,False,False,False,False
-Farmacy,Brighten Up 3% TXA Dark Spot Toner with Azelaic Acid,432,0.0,,False,True,Cleansers,Toners,34.0,120.0,fair,False,True,False,True,False,False,False,False,False,False
+Farmacy,Brighten Up 3% TXA Dark Spot Toner with Azelaic Acid,432,0.0,0.0,False,True,Cleansers,Toners,34.0,120.0,fair,False,True,False,True,False,False,False,False,False,False
 Fenty Skin,Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide + Kalahari Melon,64620,4.0,781.0,False,True,Moisturizers,Moisturizers,39.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 Fenty Skin,Cherry Treat Conditioning + Strengthening Lip Oil,119797,4.4,533.0,False,True,Lip Balms & Treatments,Lip Balms & Treatments,24.0,5.0,fair,False,False,False,False,False,True,False,False,False,False
 Fenty Skin,Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry,77300,4.1,485.0,False,True,Cleansers,Toners,34.0,150.0,fair,False,False,False,True,True,False,False,False,False,False
@@ -753,8 +753,8 @@ fresh,Rose Hydration Pore-Minimizing Mist,14153,4.5,17.0,False,False,Moisturizer
 fresh,Sugar Triple-Action Lip Serum Advanced Therapy,3996,3.9,7.0,True,False,Lip Balms & Treatments,Lip Balms & Treatments,36.0,10.0,luxury,True,True,False,False,False,False,False,False,False,False
 fresh,Umbrian Clay Pore Purifying Face Mask,6419,4.5,4.0,False,False,Masks,Face Masks,58.0,100.0,luxury,False,False,True,False,True,False,False,False,False,False
 fresh,Mini Floral Recovery Overnight Mask with Squalane,3539,5.0,1.0,False,False,Masks,Face Masks,28.0,30.0,fair,False,True,False,False,False,True,False,False,False,False
-fresh,Mini Kombucha Antioxidant Facial Treatment Essence,26,0.0,,False,False,Moisturizers,Mists & Essences,39.0,50.0,luxury,False,True,False,False,False,True,False,False,False,False
-fresh,Kombucha Antioxidant Facial Treatment Essence,22,0.0,,False,False,Moisturizers,Mists & Essences,82.0,150.0,luxury,False,True,False,False,False,True,False,False,False,False
+fresh,Mini Kombucha Antioxidant Facial Treatment Essence,26,0.0,0.0,False,False,Moisturizers,Mists & Essences,39.0,50.0,luxury,False,True,False,False,False,True,False,False,False,False
+fresh,Kombucha Antioxidant Facial Treatment Essence,22,0.0,0.0,False,False,Moisturizers,Mists & Essences,82.0,150.0,luxury,False,True,False,False,False,True,False,False,False,False
 Gisou,Honey Infused Lip Oil,547,4.9,19.0,False,False,Lip Balms & Treatments,Lip Balms & Treatments,32.0,8.0,fair,False,False,False,False,False,False,False,False,False,False
 GLO Science,GLO Lit Teeth Whitening Vials 3 Pack,35507,4.1,149.0,True,True,High Tech Tools,Teeth Whitening,24.0,,fair,False,False,False,False,False,False,False,False,False,True
 GLO Science,GLO Brilliant Teeth Whitening GLO Vials 10 Pack plus Lip Care,16148,4.4,133.0,True,False,High Tech Tools,Teeth Whitening,65.0,,luxury,False,False,False,False,False,False,False,False,False,True
@@ -865,7 +865,7 @@ Hourglass,Equilibrium Day Fluid Sunscreen Broad Spectrum SPF 30,799,4.1,16.0,Fal
 Hourglass,Equilibrium Restorative Hydrating Cream,876,5.0,3.0,False,False,Moisturizers,Moisturizers,94.0,54.0,luxury,False,True,False,False,False,True,False,False,False,True
 Hourglass,Mini Equilibrium Rebalancing Cream Cleanser,1149,5.0,1.0,False,False,Cleansers,Face Wash & Cleansers,25.0,27.0,fair,False,True,False,False,False,True,False,False,False,False
 Hourglass,Equilibrium Biomimetic Skin Active Serum,482,5.0,1.0,False,False,Treatments,Face Serums,198.0,50.0,luxury,False,True,False,False,False,True,False,False,False,True
-Hourglass,Mini Equilibrium Biomimetic Skin Active Serum,438,0.0,,False,False,Treatments,Face Serums,124.0,28.0,luxury,False,True,False,False,False,True,False,False,False,True
+Hourglass,Mini Equilibrium Biomimetic Skin Active Serum,438,0.0,0.0,False,False,Treatments,Face Serums,124.0,28.0,luxury,False,True,False,False,False,True,False,False,False,True
 HUM Nutrition,Skin Squad Pre + ProbioticSupplement for Acne-Prone Skin,15373,4.1,660.0,False,False,Wellness,Beauty Supplements,40.0,,luxury,False,False,True,False,False,False,False,False,False,False
 HUM Nutrition,Daily Cleanse Clear Skin and Body Detox Supplement,49678,4.1,617.0,False,False,Wellness,Beauty Supplements,26.0,,fair,False,False,True,False,False,False,False,False,False,False
 HUM Nutrition,Flatter Me Digestive Enzyme Supplement,31935,4.3,401.0,False,False,Wellness,Beauty Supplements,26.0,,fair,False,False,False,False,False,False,False,False,False,False
@@ -969,7 +969,7 @@ Jack Black,Lip Service - Lip Balm Duo Mint & Shea,6167,4.9,19.0,True,False,Lip B
 Jack Black,Acne Remedy Overnight Repair Moisturizer,972,4.1,7.0,True,False,Moisturizers,Moisturizers,40.0,60.0,luxury,False,False,True,False,False,False,False,False,False,False
 Jack Black,Oil-Control Toner,473,2.0,4.0,False,False,Cleansers,Toners,25.0,236.0,fair,False,False,False,False,False,False,False,False,False,False
 Jack Black,Turbo Body Lotion Energizing Gel Moisturizer with Eucalyptus & Aloe,326,5.0,1.0,True,False,Moisturizers,Moisturizers,38.0,473.0,luxury,False,False,False,False,False,False,False,False,False,False
-Jack Black,Acne Remedy Balancing Foam Cleanser,338,0.0,,True,False,Cleansers,Face Wash & Cleansers,25.0,148.0,fair,False,False,True,False,False,False,False,False,False,False
+Jack Black,Acne Remedy Balancing Foam Cleanser,338,0.0,0.0,True,False,Cleansers,Face Wash & Cleansers,25.0,148.0,fair,False,False,True,False,False,False,False,False,False,False
 Jillian Dempsey,Gold Sculpting Bar,10451,4.4,67.0,True,False,Wellness,Facial Rollers,195.0,,luxury,False,False,False,False,False,False,False,False,False,False
 JLo Beauty,That Jlo Glow Brightening & Firming Serum with Niacinamide,13307,3.9,602.0,False,False,Treatments,Face Serums,79.0,30.0,luxury,True,False,False,False,False,False,False,False,False,True
 JLo Beauty,That Blockbuster Cream with Hyaluronic Acid,8948,4.2,552.0,False,False,Moisturizers,Moisturizers,59.0,50.0,luxury,False,False,False,False,False,False,False,False,False,True
@@ -1068,10 +1068,10 @@ Kiehl's Since 1851,Rare Earth Pore Refining Tonic,5263,3.6,33.0,False,False,Clea
 Kiehl's Since 1851,Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30,3510,3.6,15.0,True,False,Moisturizers,Moisturizers,95.0,75.0,luxury,False,False,False,False,False,False,False,False,False,False
 Kiehl's Since 1851,Ultra Facial Hydrating Concentrated Cleansing Bar,1558,4.3,6.0,False,False,Cleansers,Face Wash & Cleansers,20.0,100.0,fair,False,False,False,False,False,True,False,False,False,False
 Kiehl's Since 1851,Mini Calendula Deep Clean Foaming Face Wash,3514,5.0,3.0,False,False,Cleansers,Face Wash & Cleansers,18.0,75.0,fair,False,False,False,False,False,False,False,False,False,False
-Kiehl's Since 1851,Rare Earth Pore Minimizing Lotion,606,0.0,,False,False,Moisturizers,Moisturizers,33.0,75.0,fair,False,False,False,False,False,False,False,False,False,False
-Kiehl's Since 1851,Ultra Pure High-Potency 5.0% Niacinamide Serum,80,0.0,,False,False,Treatments,Face Serums,35.0,30.0,fair,False,False,False,False,False,False,True,False,False,False
-Kiehl's Since 1851,Ultra Pure High-Potency 9.8% Glycolic Acid Serum,55,0.0,,False,False,Treatments,Face Serums,35.0,30.0,fair,False,True,False,False,True,False,False,False,False,False
-Kiehl's Since 1851,Ultra Pure Hyaluronic Acid 1.5% Serum,22,0.0,,False,False,Treatments,Face Serums,35.0,,fair,False,False,False,False,False,True,False,False,False,False
+Kiehl's Since 1851,Rare Earth Pore Minimizing Lotion,606,0.0,0.0,False,False,Moisturizers,Moisturizers,33.0,75.0,fair,False,False,False,False,False,False,False,False,False,False
+Kiehl's Since 1851,Ultra Pure High-Potency 5.0% Niacinamide Serum,80,0.0,0.0,False,False,Treatments,Face Serums,35.0,30.0,fair,False,False,False,False,False,False,True,False,False,False
+Kiehl's Since 1851,Ultra Pure High-Potency 9.8% Glycolic Acid Serum,55,0.0,0.0,False,False,Treatments,Face Serums,35.0,30.0,fair,False,True,False,False,True,False,False,False,False,False
+Kiehl's Since 1851,Ultra Pure Hyaluronic Acid 1.5% Serum,22,0.0,0.0,False,False,Treatments,Face Serums,35.0,,fair,False,False,False,False,False,True,False,False,False,False
 Koh Gen Do,Cleansing Spa Water Cloths,23197,4.5,284.0,False,False,Cleansers,Face Wipes,23.0,10.0,fair,False,False,False,False,False,False,False,False,False,False
 KORA Organics,Noni Glow Plumping Face Oil,38003,4.4,1121.0,False,True,Moisturizers,Face Oils,72.0,30.0,luxury,False,True,False,False,False,True,False,True,False,False
 KORA Organics,Turmeric Glow Brightening Moisturizer,17005,4.5,1017.0,False,True,Moisturizers,Moisturizers,62.0,50.0,luxury,False,False,False,False,False,False,False,False,False,True
@@ -1152,7 +1152,7 @@ Lancôme,Rose Sorbet Cryo-Mask,3771,3.5,27.0,False,False,Masks,Face Masks,45.0,5
 Lancôme,Rènergie Lift Multi-Action Ultra Double-Wrapping Cream Face Mask,4838,4.7,18.0,True,False,Masks,Sheet Masks,68.0,,luxury,False,False,False,False,False,False,False,False,False,False
 Lancôme,Clarifique Pro-Solution Brightening & Dark Spot Reducing Serum,23,4.4,5.0,False,False,Treatments,Face Serums,85.0,30.0,luxury,False,True,False,True,True,False,False,False,False,False
 Lancôme,Absolue The Serum,353,3.5,2.0,True,False,Treatments,Face Serums,270.0,30.0,luxury,True,True,False,False,False,True,False,False,False,False
-Lancôme,Absolue Rose 80 Brightening Toner with Salicylic Acid,1139,0.0,,True,False,Cleansers,Toners,120.0,150.0,luxury,False,True,False,False,False,True,False,False,False,False
+Lancôme,Absolue Rose 80 Brightening Toner with Salicylic Acid,1139,0.0,0.0,True,False,Cleansers,Toners,120.0,150.0,luxury,False,True,False,False,False,True,False,False,False,False
 LANEIGE,Lip Sleeping Mask Intense Hydration with Vitamin C,1081315,4.4,16118.0,False,True,Lip Balms & Treatments,Lip Balms & Treatments,24.0,20.0,fair,False,False,False,False,False,True,False,False,False,False
 LANEIGE,Lip Glowy Balm,471406,4.4,3722.0,False,True,Lip Balms & Treatments,Lip Balms & Treatments,18.0,,fair,False,False,False,False,False,True,False,False,False,False
 LANEIGE,Cream Skin Toner & Moisturizer,143173,4.4,1859.0,False,True,Moisturizers,Moisturizers,33.0,150.0,fair,False,False,False,False,False,False,False,False,False,False
@@ -1180,7 +1180,7 @@ MACRENE actives,Plumping High Performance Lip Filler with Hyaluronic Acid,422,4.
 MACRENE actives,High Performance Eye Cream for Dark Circles with Hyaluronic Acid,328,4.9,19.0,True,True,Eye Care,Eye Creams & Treatments,135.0,15.0,luxury,True,True,False,False,False,False,False,False,True,False
 MACRENE actives,Moisturizing High Performance Face Cream with Peptides,297,4.9,15.0,True,True,Moisturizers,Moisturizers,225.0,30.0,luxury,True,True,False,False,False,False,True,False,False,True
 MACRENE actives,High Performance Face Cleanser for Clear Skin with Niacinamide,204,4.9,13.0,True,True,Cleansers,Face Wash & Cleansers,85.0,60.0,luxury,False,True,True,False,False,False,False,False,False,False
-MAKE UP FOR EVER,Gentle Eye Gel Waterproof Eye & Lip Makeup Remover,1031,0.0,,False,True,Cleansers,Makeup Removers,29.0,125.0,fair,False,False,False,False,False,False,False,False,False,False
+MAKE UP FOR EVER,Gentle Eye Gel Waterproof Eye & Lip Makeup Remover,1031,0.0,0.0,False,True,Cleansers,Makeup Removers,29.0,125.0,fair,False,False,False,False,False,False,False,False,False,False
 MARA,Chia + Moringa Algae Enzyme Cleansing Oil,4444,4.9,224.0,False,False,Cleansers,Face Wash & Cleansers,58.0,120.0,luxury,False,True,False,False,False,True,False,False,False,False
 MARA,Algae + Moringa Universal Hydrating Face Oil,1595,4.9,111.0,False,False,Moisturizers,Face Oils,72.0,35.0,luxury,False,False,False,False,False,False,False,False,False,True
 MARA,Mini Algae + Moringa Universal Face Oil,1333,4.9,111.0,False,False,Moisturizers,Face Oils,40.0,15.0,luxury,False,True,True,False,False,False,False,False,False,True
@@ -1293,7 +1293,7 @@ Murad,Rapid Collagen Infusion,10417,4.1,125.0,False,False,Treatments,Face Serums
 Murad,Multi-Vitamin Infusion Oil,5518,4.4,103.0,False,False,Moisturizers,Face Oils,85.0,30.0,luxury,False,False,False,False,False,False,False,False,False,False
 Murad,Clarifying Water Gel Moisturizer with Hyaluronic Acid,1415,3.0,8.0,False,True,Moisturizers,Moisturizers,49.0,60.0,luxury,False,False,True,False,False,False,False,False,False,False
 Murad,Mini City Skin Age Defense Broad Spectrum SPF 50 PA++++,5567,4.3,3.0,False,False,Sunscreen,Face Sunscreen,25.0,18.0,fair,False,True,False,False,False,False,False,False,False,False
-Murad,Retinal Rescuplt Overnight Treatment,71,0.0,,False,False,Treatments,Face Serums,105.0,30.0,luxury,False,True,False,False,False,False,False,False,False,True
+Murad,Retinal Rescuplt Overnight Treatment,71,0.0,0.0,False,False,Treatments,Face Serums,105.0,30.0,luxury,False,True,False,False,False,False,False,False,False,True
 Naturally Serious,Get Even Cold-Pressed Peel Pads,8129,4.7,230.0,False,True,Treatments,Facial Peels,32.0,,fair,False,True,False,False,False,False,False,False,False,False
 Naturally Serious,Fruit-Tox Resurfacing Facial Remedy,1467,4.6,195.0,True,False,Treatments,Facial Peels,27.0,50.0,fair,False,True,False,False,False,False,False,False,False,False
 Naturally Serious,After-Dark Natural Peptide Sleeping Cream,6996,4.4,177.0,False,False,Moisturizers,Moisturizers,37.0,50.0,luxury,True,False,False,False,False,True,False,False,False,True
@@ -1311,8 +1311,8 @@ NUDESTIX,Nudescreen Daily Mineral Veil SPF 30,5697,4.1,152.0,False,False,Moistur
 NUDESTIX,NUDESKIN Lemon-Aid Detox & Glow Micro-Peel,1215,4.5,81.0,False,False,Treatments,Facial Peels,35.0,60.0,fair,False,False,False,False,False,False,False,False,False,False
 NUDESTIX,NUDESKIN Citrus-C Mask & Daily Moisturizer,653,4.3,73.0,False,False,Moisturizers,Moisturizers,39.0,60.0,luxury,True,True,True,False,False,True,False,False,False,False
 NUDESTIX,Gentle Hydra-Gel Face Cleanser,177,5.0,1.0,True,False,Cleansers,Cleansers,19.0,70.0,fair,False,False,False,False,False,False,False,False,False,False
-NUDESTIX,5% Citrus Fruit & Glycolic Glow Toner,793,0.0,,False,False,Cleansers,Toners,29.0,95.0,fair,False,False,False,False,False,False,False,False,False,False
-NUDESTIX,Nudestix Lemon-Aid Detox & Glow Micro-Peel,0,0.0,,False,False,Treatments,Facial Peels,35.0,60.0,fair,False,False,False,False,False,False,False,False,False,False
+NUDESTIX,5% Citrus Fruit & Glycolic Glow Toner,793,0.0,0.0,False,False,Cleansers,Toners,29.0,95.0,fair,False,False,False,False,False,False,False,False,False,False
+NUDESTIX,Nudestix Lemon-Aid Detox & Glow Micro-Peel,0,0.0,0.0,False,False,Treatments,Facial Peels,35.0,60.0,fair,False,False,False,False,False,False,False,False,False,False
 NuFACE,NuFACE Mini+ Petite Facial Toning Device,11514,4.5,175.0,False,True,High Tech Tools,Anti-Aging,245.0,,luxury,True,True,False,False,False,False,False,False,False,True
 NuFACE,Trinity + Eye and Lip Enhancer Attachment Bundle,16672,3.4,105.0,True,True,High Tech Tools,Anti-Aging,449.0,,luxury,True,True,False,False,False,False,False,False,False,True
 NuFACE,Trinity + Eye and Lip Enhancer Attachment Bundle,4122,3.4,105.0,False,False,High Tech Tools,Anti-Aging,429.0,,luxury,False,False,False,False,False,False,False,False,False,False
@@ -1325,9 +1325,9 @@ NuFACE,FIX  Line Smoothing Device,2054,2.0,12.0,False,False,High Tech Tools,Anti
 NuFACE,Trinity Facial Toning Device + Wrinkle Reducer Attachment Bundle,2112,3.7,9.0,False,False,High Tech Tools,Anti-Aging,429.0,,luxury,False,False,False,False,False,False,False,False,False,False
 NuFACE,NuBODY - Body Toning Device,1312,1.0,2.0,True,False,High Tech Tools,Anti-Aging,399.0,,luxury,True,True,False,False,False,False,False,False,False,True
 NuFACE,Trinity+ Starter Kit,1085,5.0,2.0,False,True,High Tech Tools,Anti-Aging,395.0,,luxury,True,False,False,False,False,False,False,False,False,True
-NuFACE,NuFACE Trinity+ & Effective Lip and Eye Attachment,760,0.0,,False,False,High Tech Tools,Anti-Aging,495.0,,luxury,True,True,False,False,False,False,False,False,False,True
-NuFACE,FIX Line Smoothing Serum,540,0.0,,False,False,Treatments,Face Serums,49.0,15.0,luxury,False,False,False,False,False,True,False,False,False,True
-NuFACE,NuFACE Effective Lip & Eye Attachment,205,0.0,,False,False,High Tech Tools,Anti-Aging,160.0,,luxury,True,False,False,False,False,False,False,False,False,True
+NuFACE,NuFACE Trinity+ & Effective Lip and Eye Attachment,760,0.0,0.0,False,False,High Tech Tools,Anti-Aging,495.0,,luxury,True,True,False,False,False,False,False,False,False,True
+NuFACE,FIX Line Smoothing Serum,540,0.0,0.0,False,False,Treatments,Face Serums,49.0,15.0,luxury,False,False,False,False,False,True,False,False,False,True
+NuFACE,NuFACE Effective Lip & Eye Attachment,205,0.0,0.0,False,False,High Tech Tools,Anti-Aging,160.0,,luxury,True,False,False,False,False,False,False,False,False,True
 OLEHENRIKSEN,C-Rush Vitamin C Gel Moisturizer,105730,4.3,2961.0,False,True,Moisturizers,Moisturizers,51.0,50.0,luxury,True,True,False,False,False,True,False,False,False,False
 OLEHENRIKSEN,Glow2OH Dark Spot Toner,182201,4.2,2955.0,False,True,Cleansers,Toners,35.0,190.0,fair,False,True,False,True,False,False,False,False,False,False
 OLEHENRIKSEN,PHAT Glow Facial Mask,49921,4.4,1785.0,False,True,Masks,Face Masks,52.0,50.0,luxury,False,False,False,False,False,False,False,False,False,True
@@ -1645,7 +1645,7 @@ Shani Darden Skin Care,Facial Sculpting Wand,7753,4.5,130.0,True,True,High Tech 
 Shani Darden Skin Care,Triple Acid Signature Peel,7097,4.9,129.0,False,True,Treatments,Facial Peels,125.0,,luxury,False,True,False,False,True,False,False,False,False,False
 Shani Darden Skin Care,Sake Toning Essence,8073,4.4,99.0,True,True,Moisturizers,Mists & Essences,52.0,120.0,luxury,False,True,False,False,True,False,False,False,False,False
 Shani Darden Skin Care,Shani Darden by Déesse PRO LED Light Mask,4154,3.8,4.0,True,True,High Tech Tools,Anti-Aging,1900.0,,luxury,True,False,True,True,False,False,False,False,False,True
-Shani Darden Skin Care,Hydra Prep Soothing & Hydrating Gel,1033,0.0,,True,True,Moisturizers,Moisturizers,38.0,150.0,luxury,False,False,False,False,False,True,False,False,False,False
+Shani Darden Skin Care,Hydra Prep Soothing & Hydrating Gel,1033,0.0,0.0,True,True,Moisturizers,Moisturizers,38.0,150.0,luxury,False,False,False,False,False,True,False,False,False,False
 Shiseido,Ultimate Sun Protector Lotion SPF 50+ Sunscreen,42257,4.5,2936.0,False,False,Sunscreen,Face Sunscreen,50.0,150.0,luxury,False,False,False,False,False,False,False,False,False,False
 Shiseido,Facial Cotton,133163,4.8,2827.0,False,False,Cleansers,Makeup Removers,13.0,,low-cost,False,False,False,False,False,False,False,False,False,False
 Shiseido,Clear Sunscreen Stick SPF 50+,74272,4.7,1529.0,False,False,Sunscreen,Face Sunscreen,30.0,20.0,fair,False,False,False,False,False,False,False,False,False,False
@@ -1693,10 +1693,10 @@ Shiseido,Future Solution LX Intensive Firming Contour Serum,1898,4.4,5.0,True,Fa
 Shiseido,White Lucent Illuminating Micro-Spot Serum,2501,3.0,2.0,True,False,Treatments,Face Serums,185.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 Shiseido,Future Solution LX Total Protective Cream Broad Spectrum SPF 20 Sunscreen,1874,5.0,2.0,True,False,Sunscreen,Face Sunscreen,270.0,50.0,luxury,False,False,False,False,False,False,False,False,False,False
 Shiseido,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 20 Sunscreen,636,4.0,2.0,True,False,Sunscreen,Face Sunscreen,270.0,75.0,luxury,False,False,False,False,False,False,False,False,False,False
-Shiseido,Vital Perfection Intensive WrinkleSpot Treatment,2248,0.0,,True,False,Treatments,Face Serums,100.0,,luxury,True,False,False,True,False,False,False,False,False,True
-Shiseido,Eudermine Activating Essence,386,0.0,,False,False,Moisturizers,Mists & Essences,90.0,145.0,luxury,False,True,False,True,True,True,False,False,False,False
-Shiseido,Ultimune Eye Power Infusing Eye Concentrate,13,0.0,,False,False,Eye Care,Eye Creams & Treatments,70.0,15.0,luxury,False,True,False,False,False,True,False,False,True,True
-Shiseido,Vital Perfection Uplifting and Firming Day Cream SPF 30,0,0.0,,True,False,Moisturizers,Moisturizers,140.0,50.0,luxury,True,True,False,False,False,False,False,False,False,True
+Shiseido,Vital Perfection Intensive WrinkleSpot Treatment,2248,0.0,0.0,True,False,Treatments,Face Serums,100.0,,luxury,True,False,False,True,False,False,False,False,False,True
+Shiseido,Eudermine Activating Essence,386,0.0,0.0,False,False,Moisturizers,Mists & Essences,90.0,145.0,luxury,False,True,False,True,True,True,False,False,False,False
+Shiseido,Ultimune Eye Power Infusing Eye Concentrate,13,0.0,0.0,False,False,Eye Care,Eye Creams & Treatments,70.0,15.0,luxury,False,True,False,False,False,True,False,False,True,True
+Shiseido,Vital Perfection Uplifting and Firming Day Cream SPF 30,0,0.0,0.0,True,False,Moisturizers,Moisturizers,140.0,50.0,luxury,True,True,False,False,False,False,False,False,False,True
 SK-II,Facial Treatment Essence (Pitera Essence),112101,4.1,2951.0,False,False,Moisturizers,Mists & Essences,245.0,230.0,luxury,False,False,False,False,True,True,False,False,False,False
 SK-II,Mini Facial Treatment Essence (Pitera Essence),49032,4.1,2949.0,False,False,Moisturizers,Mists & Essences,99.0,75.0,luxury,True,True,False,False,False,True,False,False,False,True
 SK-II,Facial Treatment Clear Lotion Toner,24003,4.1,1001.0,False,False,Cleansers,Toners,80.0,,luxury,True,True,False,True,False,False,False,False,False,True
@@ -1739,7 +1739,7 @@ SOBEL SKIN Rx,15% Niacinamide Gel Serum,1702,4.2,132.0,True,False,Treatments,Fac
 SOBEL SKIN Rx,30% Glycolic Acid Peel Concentrate,3924,4.1,24.0,True,False,Treatments,Facial Peels,46.0,50.0,luxury,False,True,False,False,True,False,False,False,False,False
 SOBEL SKIN Rx,Oligo Peptide Eye Cream,1832,4.5,6.0,True,False,Eye Care,Eye Creams & Treatments,65.0,15.0,luxury,False,False,False,False,False,False,False,False,True,True
 SOBEL SKIN Rx,35% Vitamin C Fusion Serum,906,5.0,3.0,True,False,Treatments,Face Serums,105.0,30.0,luxury,False,True,False,True,False,False,False,False,False,False
-SOBEL SKIN Rx,Bio Hyaluronic Moisturizer Cream,5,0.0,,True,False,Moisturizers,Moisturizers,95.0,50.0,luxury,True,False,False,False,False,False,False,False,False,True
+SOBEL SKIN Rx,Bio Hyaluronic Moisturizer Cream,5,0.0,0.0,True,False,Moisturizers,Moisturizers,95.0,50.0,luxury,True,False,False,False,False,False,False,False,False,True
 Sol de Janeiro,Brazilian Kiss Cupuaçu Lip Butter,118586,4.1,1350.0,False,True,Lip Balms & Treatments,Lip Balms & Treatments,18.0,6.0,fair,False,False,False,False,False,True,False,False,False,False
 Soleil Toujours,Brightening Eye Cream Mineral SPF 15 with Peptides,1880,4.9,15.0,True,False,Eye Care,Eye Creams & Treatments,68.0,15.0,luxury,False,False,False,False,False,False,False,False,True,True
 Soleil Toujours,Hydra Lip Masque Mineral SPF 15 with Peptides,1420,4.7,12.0,False,False,Lip Balms & Treatments,Lip Balms & Treatments,26.0,10.0,fair,False,False,False,False,False,True,False,False,False,False
@@ -1776,7 +1776,7 @@ StriVectin,Intensive Eye Cream Concentrate for Wrinkles PLUS,5072,4.4,40.0,True,
 StriVectin,Super-C Dark Circle Brightening Eye Serum,1322,4.6,40.0,True,False,Eye Care,Eye Creams & Treatments,65.0,15.0,luxury,False,True,False,False,False,False,False,False,True,False
 StriVectin,Multi Action Clear Gentle Daily Brightening & Retexturizing Toner for Acne and Breakouts,23,5.0,3.0,False,False,Cleansers,Toners,39.0,118.0,luxury,False,True,True,False,True,False,False,False,False,False
 StriVectin,Multi Action Clear Acne Clearing Treatment Lotion for Breakouts,13,5.0,1.0,False,False,Treatments,Blemish & Acne Treatments,49.0,50.0,luxury,False,True,True,False,True,False,False,False,False,False
-StriVectin,Multi Action Clear Gentle Daily Clarifying Cleanser for Acne and Breakouts,23,0.0,,False,False,Cleansers,Face Wash & Cleansers,29.0,150.0,fair,False,True,True,False,True,False,False,False,False,False
+StriVectin,Multi Action Clear Gentle Daily Clarifying Cleanser for Acne and Breakouts,23,0.0,0.0,False,False,Cleansers,Face Wash & Cleansers,29.0,150.0,fair,False,True,True,False,True,False,False,False,False,False
 Sulwhasoo,Anti-Aging First Care Activating Serum,25847,4.6,976.0,False,False,Treatments,Face Serums,89.0,60.0,luxury,True,True,False,False,False,True,False,False,False,True
 Sulwhasoo,First Care Activating Serum 25th Anniversary Limited Edition,399,4.6,958.0,False,True,Treatments,Face Serums,110.0,90.0,luxury,True,True,False,False,False,True,False,False,False,True
 Sulwhasoo,Gentle Cleansing Oil Makeup Remover,31523,4.5,406.0,False,True,Cleansers,Face Wash & Cleansers,40.0,200.0,luxury,False,False,False,False,False,True,False,False,False,False
@@ -1794,8 +1794,8 @@ Sulwhasoo,Concentrated Ginseng Renewing Eye Cream,3126,4.3,3.0,False,False,Eye C
 Sulwhasoo,Essential Comfort Moisture Cream,2324,5.0,3.0,False,False,Moisturizers,Moisturizers,80.0,50.0,luxury,True,False,False,False,False,True,False,False,False,False
 Sulwhasoo,White Ginseng Radiance Refining Mask,1769,5.0,1.0,False,False,Masks,Face Masks,68.0,120.0,luxury,False,True,False,False,False,True,False,False,False,False
 Sulwhasoo,Essential Comfort Balancing Emulsion,923,4.0,1.0,False,False,Moisturizers,Moisturizers,72.0,,luxury,False,True,False,False,False,True,False,False,False,False
-Sulwhasoo,Concentrated Ginseng Renewing Rescue Ampoule,1085,0.0,,True,True,Treatments,Face Serums,130.0,20.0,luxury,True,True,False,False,False,False,False,False,False,True
-Sulwhasoo,Concentrated Ginseng Renewing Sheet Masks,1048,0.0,,True,False,Masks,Sheet Masks,120.0,18.0,luxury,True,True,False,False,False,False,False,False,False,True
+Sulwhasoo,Concentrated Ginseng Renewing Rescue Ampoule,1085,0.0,0.0,True,True,Treatments,Face Serums,130.0,20.0,luxury,True,True,False,False,False,False,False,False,False,True
+Sulwhasoo,Concentrated Ginseng Renewing Sheet Masks,1048,0.0,0.0,True,False,Masks,Sheet Masks,120.0,18.0,luxury,True,True,False,False,False,False,False,False,False,True
 Summer Fridays,Jet Lag Mask,245435,4.0,4427.0,False,False,Masks,Face Masks,49.0,64.0,luxury,False,False,False,False,False,True,False,False,False,False
 Summer Fridays,Mini Jet Lag Mask,2900,4.0,4427.0,False,False,Masks,Face Masks,26.0,29.0,fair,False,False,False,False,False,True,False,False,False,False
 Summer Fridays,Lip Butter Balm,359649,4.3,1157.0,False,False,Lip Balms & Treatments,Lip Balms & Treatments,24.0,15.0,fair,False,False,False,False,False,True,False,False,False,False
@@ -1908,7 +1908,7 @@ Tata Harper,Crème Riche Anti-Aging Peptide Night Cream,2825,4.1,21.0,False,Fals
 Tata Harper,Boosted Contouring Retinol Eye Balm,2191,3.4,12.0,True,False,Eye Care,Eye Creams & Treatments,260.0,15.0,luxury,False,False,False,False,False,True,False,False,False,True
 Tata Harper,Superkind Fragrance-Free Radiance Mask,4881,4.8,4.0,True,False,Masks,Face Masks,68.0,30.0,luxury,False,False,False,False,False,False,False,False,False,False
 Tata Harper,Superkind Refining Cleanser,689,5.0,1.0,True,False,Cleansers,Face Wash & Cleansers,88.0,125.0,luxury,False,True,False,False,False,False,False,False,False,False
-Tata Harper,Bio-Barrier Eye Crème,484,0.0,,True,False,Eye Care,Eye Creams & Treatments,130.0,15.0,luxury,True,False,False,False,False,False,False,False,True,True
+Tata Harper,Bio-Barrier Eye Crème,484,0.0,0.0,True,False,Eye Care,Eye Creams & Treatments,130.0,15.0,luxury,True,False,False,False,False,False,False,False,True,True
 Tatcha,The Water Cream Oil-Free Pore Minimizing Moisturizer,373877,4.0,4168.0,False,True,Moisturizers,Moisturizers,70.0,50.0,luxury,False,False,False,False,True,False,False,False,False,False
 Tatcha,The Dewy Skin Cream Plumping & Hydrating Moisturizer,388775,4.1,3148.0,False,True,Moisturizers,Moisturizers,70.0,50.0,luxury,False,False,False,False,False,True,False,False,False,False
 Tatcha,The Essence Skincare Boosting Treatment,113656,4.4,2483.0,False,False,Moisturizers,Mists & Essences,110.0,150.0,luxury,False,True,False,False,False,False,False,False,False,True
@@ -1937,8 +1937,8 @@ Tatcha,Luminous Deep Hydration Lifting Mask,27298,4.4,81.0,False,False,Masks,She
 Tatcha,Aburatorigami Japanese Blotting Papers,16714,4.4,54.0,False,True,Cleansers,Blotting Papers,14.0,,low-cost,False,False,False,False,False,False,False,False,False,False
 Tatcha,Ageless Revitalizing Neck Cream,12625,4.2,20.0,True,True,Moisturizers,Decollete & Neck Creams,112.0,50.0,luxury,True,False,False,False,False,False,False,False,False,True
 Tatcha,The Essence Skincare Boosting Treatment – Lunar New Year Edition,5440,5.0,2.0,True,True,Moisturizers,Mists & Essences,110.0,150.0,luxury,False,True,False,False,False,False,False,False,False,False
-Tatcha,The Essence Skincare Boosting Treatment – Lunar New Year Edition,0,0.0,,True,True,Moisturizers,Mists & Essences,110.0,150.0,luxury,False,True,False,False,False,False,False,False,False,False
-Tatcha,Mini The Dewy Skin Cream Plumping & Hydrating Moisturizer,0,0.0,,True,True,Moisturizers,Moisturizers,22.0,10.0,fair,False,False,False,False,False,True,False,False,False,False
+Tatcha,The Essence Skincare Boosting Treatment – Lunar New Year Edition,0,0.0,0.0,True,True,Moisturizers,Mists & Essences,110.0,150.0,luxury,False,True,False,False,False,False,False,False,False,False
+Tatcha,Mini The Dewy Skin Cream Plumping & Hydrating Moisturizer,0,0.0,0.0,True,True,Moisturizers,Moisturizers,22.0,10.0,fair,False,False,False,False,False,True,False,False,False,False
 The INKEY List,Oat Cleansing Balm,127819,3.6,2968.0,False,True,Cleansers,Face Wash & Cleansers,11.99,150.0,low-cost,False,False,False,False,False,True,True,False,False,False
 The INKEY List,Mini Oat Cleansing Balm,40474,3.6,2968.0,False,True,Cleansers,Face Wash & Cleansers,5.99,50.0,low-cost,False,False,False,False,False,True,True,False,False,False
 The INKEY List,Hyaluronic Acid Hydrating Serum,169217,4.4,1964.0,False,True,Treatments,Face Serums,9.99,30.0,low-cost,False,False,False,False,False,False,False,False,True,False
@@ -2070,7 +2070,7 @@ TULA Skincare,Revive + Rewind Revitalizing Eye Cream,1921,4.2,46.0,False,False,E
 TULA Skincare,So Smooth Resurfacing & Brightening Fruit Enzyme Mask,2603,4.2,44.0,False,False,Masks,Face Masks,36.0,50.0,luxury,False,True,False,False,True,False,False,False,False,False
 TULA Skincare,Firm Up Deep Wrinkle Serum,1258,4.2,38.0,False,False,Treatments,Face Serums,84.0,30.0,luxury,True,True,False,False,False,False,False,False,False,True
 TULA Skincare,Claydate Detoxifying & Toning Face Mask Stick,1460,4.3,36.0,False,False,Masks,Face Masks,36.0,35.0,luxury,False,False,True,False,True,False,False,False,False,False
-TULA Skincare,"24-7 Ultra Hydration Triple-Hydra Complex Day & Night Serum with Hyaluronic Acid, Squalane & Collagen",11,0.0,,False,True,Treatments,Face Serums,48.0,30.0,luxury,False,False,False,False,False,True,False,False,False,False
+TULA Skincare,"24-7 Ultra Hydration Triple-Hydra Complex Day & Night Serum with Hyaluronic Acid, Squalane & Collagen",11,0.0,0.0,False,True,Treatments,Face Serums,48.0,30.0,luxury,False,False,False,False,False,True,False,False,False,False
 TWEEZERMAN,Prep & Plane Facial Razors,5661,2.7,38.0,False,True,High Tech Tools,Hair Removal,10.0,,low-cost,False,False,False,False,False,False,False,False,False,False
 Wander Beauty,Baggage Claim Eye Masks,47687,4.1,490.0,False,False,Eye Care,Eye Masks,26.0,,fair,False,False,False,False,False,False,False,False,False,False
 Wander Beauty,Baggage Claim Rose Gold Eye Masks,38772,4.1,71.0,False,False,Eye Care,Eye Masks,26.0,,fair,False,False,False,False,False,False,False,False,False,False
