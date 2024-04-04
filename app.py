@@ -9,6 +9,9 @@ from dash.dependencies import Input, Output
 
 import dash_bootstrap_components as dbc
 
+#read in clean dataset 
+skincare_df= pd.read_csv("data.csv")
+
 
 stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css'] # load the CSS stylesheet
 # Initialize the Dash app
