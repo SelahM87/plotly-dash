@@ -1,13 +1,9 @@
-
-#trying 
-
 import dash
 from dash import html, dcc
 from dash.dependencies import Input, Output
 import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
-
 # Read in clean dataset
 skincare_df = pd.read_csv("data.csv")
 
@@ -128,34 +124,6 @@ app.layout = dbc.Container([
         ], width=4),
     ], className="mb-2"),
 
-    # Data Table
-    dbc.Row([
-        dbc.Col([
-            html.Label('TOP 10 List', style={'color': 'pink'}),
-            dash_table.DataTable(
-                id='top-ten-table',
-                columns=[
-                    {'name': 'Rank', 'id': 'Row Number'},
-                    {'name': 'Price', 'id': 'price_usd'},
-                    {'name': 'Size', 'id': 'size_ml'},
-                    {'name': 'Product Name', 'id': 'product'},
-                    {'name': 'Brand', 'id': 'brand'},
-                    {'name': 'Average Rating', 'id': 'rating'},
-                    {'name': 'Love Count', 'id': 'loves_count'},
-                    {'name': 'Reviews', 'id': 'reviews'},
-                ],
-                style_table={'overflowX': 'auto'},
-                style_cell={'textAlign': 'left','padding-top': '10px', 'padding-bottom': '20px', 'padding-left': '30px', 'padding-right': '40px'},
-                page_size=10,
-                style_as_list_view=True,
-                style_header={'backgroundColor': px.colors.qualitative.Pastel1[0], 'fontWeight': 'bold', 'textAlign': 'center'},
-                style_data_conditional=[
-                    {'if': {'row_index': 'odd'}, 'backgroundColor': 'rgb(248, 248, 248)'},
-                    {'if': {'row_index': 'even'}, 'backgroundColor': 'rgb(220, 220, 220)'}
-                ]
-            ),
-        ], width=12)
-    ], className="mb-2")
 ], fluid=True,style={'background': 'linear-gradient(to left, rgba(0,0,0,1), rgba(169,169,169,1))'})
 
 
@@ -251,12 +219,6 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         height=500
     )
 
-     # Sort DataFrame based on y-axis and select top 10 values
-    sorted_df = filtered_df.sort_values(by=y_axis, ascending=False).head(10)
-    sorted_df['Row Number'] = range(1, min(11, len(sorted_df) + 1))
-    # Convert DataFrame to DataTable format
-    data = sorted_df.to_dict('records')
-
     # Create sunburst chart
     sunburst_fig = px.sunburst(filtered_df, path=['product type', 'Subtype', 'brand'],
                                 title='Distribution of Product Types',
@@ -275,7 +237,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
     # Update the output container with price range information
     output_message = update_output(price_range)
 
-    return sunburst_fig, scatter_fig, bar_fig, output_message, data
+    return sunburst_fig, scatter_fig, bar_fig, output_message,
 
 
 # Run the app
