@@ -121,7 +121,7 @@ app.layout = dbc.Container([
         ], width=3),
         dbc.Col([
             # Add your content here
-        ], width=2),s
+        ], width=2),
         dbc.Col([
             dcc.Graph(id='bar-graph')
         ], width=3),
