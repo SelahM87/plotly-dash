@@ -4,3 +4,4 @@ pandas
 plotly
 dash-bootstrap-components
 gunicorn
+dash-table
