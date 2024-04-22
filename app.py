@@ -12,6 +12,8 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 server = app.server
 
+
+
 all_brands = skincare_df['brand'].unique()
 all_categories = skincare_df['product type'].unique()
 
@@ -133,8 +135,7 @@ def update_output(price_range):
 
 # Callback to update all graphs and tables
 @app.callback(
-    [Output('sunburst-chart', 'figure'), Output('scatter-plot', 'figure'),  Output('bar-graph', 'figure'), Output('output-container-range-slider', 'children'),
-     Output('top-ten-table', 'data')],
+    [Output('sunburst-chart', 'figure'), Output('scatter-plot', 'figure'),  Output('bar-graph', 'figure'), Output('output-container-range-slider', 'children')],
     [Input('price-range-slider', 'value'),
      Input('brand-dropdown', 'value'),
      Input('product-type-dropdown', 'value'),
