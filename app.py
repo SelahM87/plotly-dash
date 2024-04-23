@@ -16,7 +16,7 @@ server = app.server
 
 all_brands = skincare_df['brand'].unique()
 all_categories = skincare_df['product type'].unique()
-
+# title card 
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(html.Img(src="/Users/selahmitchell/Desktop/DS interactive app/plotly-dash", height="100px", alt="sephora logo"), width=2),
@@ -26,10 +26,11 @@ app.layout = dbc.Container([
         style={'background': 'black'}
     ),
 
-    # Attributes and Sunburst Graph
+    # #######################################################    tool bar ###################################################################################
     dbc.Row([
         dbc.Col([
             dbc.Card(
+                #Attributes checkbox 
                 dbc.CardBody([
                     html.Label('Attributes', style={'color': 'pink'}),
                     dcc.Checklist(
@@ -56,6 +57,7 @@ app.layout = dbc.Container([
                         ],
                         value=[]
                     ),
+                    # dropdowns for Brand and Products 
                     html.Label('Select Brand(s)', style={'color': 'pink'}),
                     dcc.Dropdown(
                         id='brand-dropdown',
@@ -72,6 +74,7 @@ app.layout = dbc.Container([
                         value=['All Product Types'],
                         placeholder="Select Product Type(s)",
                     ),
+                    #Price slider
                     html.Label('Choose Price Range (USD)', style={'color': 'pink'}),
                     dcc.RangeSlider(
                         id='price-range-slider',
@@ -83,7 +86,8 @@ app.layout = dbc.Container([
                         tooltip={'always_visible': True},
                     ),
                     html.Div(id='output-container-range-slider'),
-                    html.Label('Ranking and Comparison Options', style={'color': 'pink'}),
+                    # y-axis and x-axis graph comparison buttons 
+                    html.Label('Comparison Options:', style={'color': 'pink'}),
                         dcc.RadioItems(
                             id='y-axis-radio',
                             options=[
@@ -109,6 +113,8 @@ app.layout = dbc.Container([
                     ])
             )
         ], width=4),
+
+        ################################################# GRAPHS ##################################################################################
 
         dbc.Col([
             dcc.Graph(id='sunburst-chart')
@@ -183,11 +189,13 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
             filtered_df = filtered_df[filtered_df['brand'].isin(selected_brands)]
         if 'All Product Types' not in selected_primary_categories:
             filtered_df = filtered_df[filtered_df['product type'].isin(selected_primary_categories)]
-
+#########################################                   Bar Graph    ###########################################################################################################
+    
+  #default to not break loop   
     color_param = None
     barmode_param = None
     
-  # Determine the label for the x-axis and the color parameter
+  
     if x_axis == 'brand':
         x_label = 'Brand'
         color_param = 'product type' 
@@ -198,7 +206,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         color_param = 'product type' 
         barmode_param = 'stack'
         
-    else:  # Default to primary category
+    else:  
         x_label = 'Product Type'
         color_param = 'Subtype'
         barmode_param = 'stack'
@@ -217,8 +225,6 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
                  color=color_param,
                  barmode=barmode_param
                  ) 
-    
-   
     bar_fig.update_layout(
         title_font=dict(size=25),
         autosize=True,
@@ -248,7 +254,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         paper_bgcolor = 'rgb(0,0,0)' # set paper black 
     )
 
-    # Create sunburst chart
+    # Create sunburst chart LAYOUT 
     sunburst_fig = px.sunburst(filtered_df, path=['product type', 'Subtype', 'brand'],
                                 title='Distribution of Product Types',
                                 color='product type',
