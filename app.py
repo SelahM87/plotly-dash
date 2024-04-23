@@ -228,8 +228,8 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
     bar_fig.update_layout(
         title_font=dict(size=25),
         autosize=True,
-        width=500,
-        height=500,
+        width=600,
+        height=600,
         font=dict(color="pink"),  # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor = 'rgb(0,0,0)'
@@ -248,8 +248,8 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         yaxis=dict(title=y_axis.capitalize(), title_font=dict(size=20)),
         legend=dict(title=f'{x_axis.capitalize()}', title_font=dict(size=20)),
         autosize=True,
-        width=500,
-        height=500,
+        width=600,
+        height=600,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor = 'rgb(0,0,0)' # set paper black 
     )
