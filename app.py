@@ -121,11 +121,11 @@ app.layout = dbc.Container([
         ], width=3),
         dbc.Col([
             # Add your content here
-        ], width=2),
+        ], width=3),
         dbc.Col([
             dcc.Graph(id='bar-graph')
         ], width=3),
-    ], className="mb-2")
+    ], className="mb-3")
 ], fluid=True, style={'background': 'linear-gradient(to left, rgba(0,0,0,1), rgba(169,169,169,1))'})
 
 # Define the update_output function
@@ -226,7 +226,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         height=500,
         font=dict(color="pink"),  # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor = 'rgba(0,0,0,0)'
+        paper_bgcolor = 'rgba(169,169,169,1)'
     )
 
     # Create scatter plot--
@@ -257,11 +257,11 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
     sunburst_fig.update_layout(
         title_font=dict(size=25),
         autosize=False,
-        width=800,
+        width=700,
         height=800,
         font=dict(color="pink"), # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor = 'rgba(0,0,0,0)'
+        paper_bgcolor = 'rgba(169,169,169,1)'
     )
 
     # Update the output container with price range information
