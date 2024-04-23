@@ -246,7 +246,6 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         xaxis=dict(title='Price (USD)', title_font=dict(size=20)),
         yaxis=dict(title=y_axis.capitalize(), title_font=dict(size=20)),
         legend=dict(title=f'{x_axis.capitalize()}', title_font=dict(size=20)),
-        color_discrete_sequence=px.colors.qualitative.Pastel1,
         autosize=True,
         width=600,
         height=600,
@@ -257,8 +256,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
     # Create sunburst chart LAYOUT 
     sunburst_fig = px.sunburst(filtered_df, path=['product type', 'Subtype', 'brand'],
                                 title='Distribution of Product Types',
-                                color='product type',
-                                color_discrete_sequence=px.colors.qualitative.Pastel1)
+                                color='product type')
 
     sunburst_fig.update_layout(
         title_font=dict(size=25),
