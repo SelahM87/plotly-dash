@@ -226,7 +226,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         height=500,
         font=dict(color="pink"),  # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor = 'rgba(169,169,169,1)'
+        paper_bgcolor = 'rgb(0,0,0)'
     )
 
     # Create scatter plot--
@@ -245,7 +245,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         width=700,
         height=500,
         plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor = 'rgba(0,0,0,0)'
+        paper_bgcolor = 'rgb(0,0,0)' # set paper black 
     )
 
     # Create sunburst chart
@@ -261,7 +261,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         height=800,
         font=dict(color="pink"), # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor = 'rgba(169,169,169,1)'
+        paper_bgcolor = 'rgba(0,0,0,0)'
     )
 
     # Update the output container with price range information
