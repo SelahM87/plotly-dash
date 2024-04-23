@@ -127,11 +127,11 @@ app.layout = dbc.Container([
         ], width=3),
         dbc.Col([
             # Add your content here
-        ], width=3),
+        ], width=2),
         dbc.Col([
             dcc.Graph(id='bar-graph')
         ], width=3),
-    ], className="mb-3")
+    ], className="mb-2")
 ], fluid=True, style={'background': 'linear-gradient(to left, rgba(0,0,0,1), rgba(169,169,169,1))'})
 
 # Define the update_output function
