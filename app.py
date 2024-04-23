@@ -114,7 +114,7 @@ app.layout = dbc.Container([
             )
         ], width=4),
 
-        ################################################# GRAPHS ##################################################################################
+        #################################################################### GRAPHS ################################################################################################
 
         dbc.Col([
             dcc.Graph(id='sunburst-chart')
@@ -189,7 +189,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
             filtered_df = filtered_df[filtered_df['brand'].isin(selected_brands)]
         if 'All Product Types' not in selected_primary_categories:
             filtered_df = filtered_df[filtered_df['product type'].isin(selected_primary_categories)]
-#########################################                   Bar Graph    ###########################################################################################################
+############################################################################            Bar Graph    ##################################################################################
     
   #default to not break loop   
     color_param = None
@@ -235,10 +235,9 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         paper_bgcolor = 'rgb(0,0,0)'
     )
 
-    # Create scatter plot--
+    # Create scatter plot-
     scatter_fig = px.scatter(filtered_df, x='price_usd', y=y_axis, color=x_axis,
-                             title=f'Price vs {y_axis.capitalize()}',
-                             color_discrete_sequence=px.colors.qualitative.Pastel1,
+                             title=f'{y_axis.capitalize()} distribution by Price',
                              hover_data={'product': True, 'product type': True})
 
     # Update scatter plot layout 
@@ -247,6 +246,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         xaxis=dict(title='Price (USD)', title_font=dict(size=20)),
         yaxis=dict(title=y_axis.capitalize(), title_font=dict(size=20)),
         legend=dict(title=f'{x_axis.capitalize()}', title_font=dict(size=20)),
+        color_discrete_sequence=px.colors.qualitative.Pastel1,
         autosize=True,
         width=600,
         height=600,
@@ -270,7 +270,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         paper_bgcolor = 'rgba(0,0,0,0)'
     )
 
-    # Update the output container with price range information
+    # changes the price range based on the slider 
     output_message = update_output(price_range)
 
     return sunburst_fig, scatter_fig, bar_fig, output_message
