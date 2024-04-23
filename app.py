@@ -127,7 +127,7 @@ app.layout = dbc.Container([
         ], width=3),
         dbc.Col([
             # Add your content here
-        ], width=2),
+        ], width=3),
         dbc.Col([
             dcc.Graph(id='bar-graph')
         ], width=3),
@@ -228,7 +228,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
     bar_fig.update_layout(
         title_font=dict(size=25),
         autosize=True,
-        width=700,
+        width=500,
         height=500,
         font=dict(color="pink"),  # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
@@ -248,7 +248,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         yaxis=dict(title=y_axis.capitalize(), title_font=dict(size=20)),
         legend=dict(title=f'{x_axis.capitalize()}', title_font=dict(size=20)),
         autosize=True,
-        width=700,
+        width=500,
         height=500,
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor = 'rgb(0,0,0)' # set paper black 
