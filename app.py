@@ -246,7 +246,9 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         xaxis=dict(title='Price (USD)', title_font=dict(size=20)),
         yaxis=dict(title=y_axis.capitalize(), title_font=dict(size=20)),
         legend=dict(title=f'{x_axis.capitalize()}', title_font=dict(size=20)),
+        color_discrete_sequence=px.colors.qualitative.Pastel1,
         autosize=True,
+        font=dict(color="pink"), 
         width=600,
         height=600,
         plot_bgcolor='rgba(0,0,0,0)',
@@ -265,6 +267,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         height=800,
         font=dict(color="pink"), # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
+        color_discrete_sequence=px.colors.qualitative.Pastel1,
         paper_bgcolor = 'rgba(0,0,0,0)'
     )
 
