@@ -257,6 +257,7 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
     # Create sunburst chart LAYOUT 
     sunburst_fig = px.sunburst(filtered_df, path=['product type', 'Subtype', 'brand'],
                                 title='Distribution of Product Types',
+                               color_discrete_sequence=px.colors.qualitative.Pastel1,
                                 color='product type')
 
     sunburst_fig.update_layout(
@@ -266,7 +267,6 @@ def update_graphs(price_range, selected_brands, selected_primary_categories, sel
         height=800,
         font=dict(color="pink"), # Set text color to pink
         plot_bgcolor='rgba(0,0,0,0)',
-        color_discrete_sequence=px.colors.qualitative.Pastel1,
         paper_bgcolor = 'rgba(0,0,0,0)'
     )
 
